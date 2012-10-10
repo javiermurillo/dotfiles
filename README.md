@@ -23,6 +23,9 @@ Afterwards you can optionally `rm -fr ~/.dotifiles` if you wish, your `name.orig
 
 * [ruby](http://www.ruby-lang.org) of course
 * [bundler](http://gembundler.com/)
+* if you are on **OS X**
+    * [macports](http://www.macports.org/) 
+    * `sudo port install coreutils +with_default_names`
 
 `gem install bundler`
 
